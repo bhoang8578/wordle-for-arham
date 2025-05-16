@@ -1,0 +1,20 @@
+{
+  "name": "wordle",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "sass styles.scss styles.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dogstudio/highway": "^2.2.1",
+    "chokidar": "^3.6.0",
+    "gsap": "^3.12.5"
+  },
+  "devDependencies": {
+    "sass": "^1.77.6"
+  },
+  "description": ""
+}
